@@ -1,0 +1,14 @@
+E:\DesafioRobo\bin\Debug\net8.0\DesafioRobo.exe
+E:\DesafioRobo\bin\Debug\net8.0\DesafioRobo.deps.json
+E:\DesafioRobo\bin\Debug\net8.0\DesafioRobo.runtimeconfig.json
+E:\DesafioRobo\bin\Debug\net8.0\DesafioRobo.dll
+E:\DesafioRobo\bin\Debug\net8.0\DesafioRobo.pdb
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.AssemblyInfoInputs.cache
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.AssemblyInfo.cs
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.csproj.CoreCompileInputs.cache
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.dll
+E:\DesafioRobo\obj\Debug\net8.0\refint\DesafioRobo.dll
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.pdb
+E:\DesafioRobo\obj\Debug\net8.0\DesafioRobo.genruntimeconfig.cache
+E:\DesafioRobo\obj\Debug\net8.0\ref\DesafioRobo.dll
